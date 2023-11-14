@@ -8,13 +8,13 @@ Let's make the code for the webpage smarter and more efficient.
 
 ## Acceptance Criteria
 <br>GIVEN a webpage meets accessibility standards
-<br> I view the source code<br>
-<br> I find semantic HTML elements<br>
-<br> I view the structure of the HTML elements<br> 
-<br> I find that the elements follow a logical structure independent of styling and positioning<br> 
-<br> I view the icon and image elements<br> 
-<br> I find accessible alt attributes <br> 
-<br> I view the heading attributes<br> 
-<br> they fall in sequential order<br> 
-<br> I view the title element<br> 
-<br> I find a concise, descriptive title<br> 
+<br>WHEN I view the source code<br>
+<br>THEN I find semantic HTML elements<br>
+<br>WHEN I view the structure of the HTML elements<br> 
+<br>THEN I find that the elements follow a logical structure independent of styling and positioning<br> 
+<br>WHEN I view the icon and image elements<br> 
+<br>THEN I find accessible alt attributes <br> 
+<br>WHEN I view the heading attributes<br> 
+<br>THEN they fall in sequential order<br> 
+<br>WHEN I view the title element<br> 
+<br>THEN I find a concise, descriptive title<br> 
